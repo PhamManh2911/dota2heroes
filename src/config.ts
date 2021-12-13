@@ -1,4 +1,4 @@
-const ALL_HEROES_URL = "/heroes"
+const ALL_HEROES_URL = "https://api.opendota.com/api/heroes"
 
 const BASE_IMAGE_URL = "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/"
 const BASE_LOGO_ATTRIBUTE = "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/herogrid/filter-"
