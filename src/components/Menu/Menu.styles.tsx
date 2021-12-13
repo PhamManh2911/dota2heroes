@@ -38,9 +38,9 @@ export const Content = styled.div.attrs<Props>(({heightWidth}) => ({
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	color: var(--white);
-	transition: all ease-in-out 1s;
+	transition: all ease-in-out 1.5s;
 	opacity: 0;
-	transform: translateY(100px);
+	transform: translateY(200px);
 
 	&.appear {
 		opacity: 1;
