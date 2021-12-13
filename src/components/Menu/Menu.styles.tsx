@@ -40,7 +40,7 @@ export const Content = styled.div.attrs<Props>(({heightWidth}) => ({
 	color: var(--white);
 	transition: all ease-in-out 1s;
 	opacity: 0;
-	transform: translateY(70px);
+	transform: translateY(100px);
 
 	&.appear {
 		opacity: 1;
